@@ -1,0 +1,9 @@
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+E:\NETe\SmartProject\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
